@@ -11,7 +11,7 @@ const availableProduce = [
       'Garlic',
       'Mushrooms',
       'Onions',
-      'Potatoes',
+      'The last Patatoe in the land',
       'Turnips'
     ]
   },
